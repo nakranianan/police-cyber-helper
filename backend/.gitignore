@@ -1,0 +1,24 @@
+# Python
+.venv/
+.envo=
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Django
+*.log
+db.sqlite3
+media/
+
+# IDE
+.idea/
+
+# Environment variables
+*.env
+
+.vscode/
+.idea/
